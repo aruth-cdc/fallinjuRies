@@ -1,0 +1,21 @@
+﻿icd10_fall_codes,type_of_fall
+W00,Fall due to ice and snow
+W01,"Fall on same level from slipping, tripping, and stumbling"
+W02,"Fall involving ice-skates, skis, roller-skates or skateboards"
+W03,Other fall on same level due to collision with another person
+W04,Fall while being carried or supported by other persons
+W05,"Fall from non-moving wheelchair, nonmotorized scooter and motorized mobility scooter"
+W06,Fall from bed
+W07,Fall from chair
+W08,Fall from other furniture
+W09,Fall on and from playground equipment
+W10,Fall on and from stairs and steps
+W11,Fall on and from ladder
+W12,Fall on and from scaffolding
+W13,"Fall from, out of or through building or structure"
+W14,Fall from tree
+W15,Fall from cliff
+W16,"Fall, jump or diving into water"
+W17,Other fall from one level to another
+W18,"Other slipping, tripping and stumbling and falls"
+W19,Unspecified fall
